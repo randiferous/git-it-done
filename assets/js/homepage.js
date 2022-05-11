@@ -10,4 +10,4 @@ var getUserRepos = function(user) {
     });
 };
 
-getUserRepos("microsoft");
+getUserRepos();
